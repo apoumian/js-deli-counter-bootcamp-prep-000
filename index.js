@@ -20,5 +20,5 @@ function nowServing(line) {
       lineMessage += `${index + 1}. ${person}, `;
     });
     return lineMessage.slice(0, -2);
-    }
+   }
   }
